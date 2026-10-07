@@ -1,4 +1,4 @@
-# Noah Maddock
+# m4dd0ck
 
 Data engineering and analytics projects, mostly Python + DuckDB + dbt. Each repo is small, tested, and has a README that shows real output.
 
