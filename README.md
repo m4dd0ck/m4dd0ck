@@ -25,3 +25,9 @@ Data engineering and analytics projects, mostly Python + DuckDB + dbt. Each repo
 | [metricforge](https://github.com/m4dd0ck/metricforge) | Define metrics in YAML, query them from Python or the CLI on DuckDB |
 
 Also: [lifekit](https://github.com/m4dd0ck/lifekit), a local-first habits/journal/goals CLI.
+
+## Notes on private work
+
+| Repo | What it does | Live |
+|---|---|---|
+| ninja-ledger (private) | Append-only record of NinjaTrader 8 fills, orders and ticks: per-day coverage, verification against independent sources, decoders for two binary formats | [write-up](notes/ninja-ledger.md) |
