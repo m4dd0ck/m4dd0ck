@@ -12,6 +12,7 @@ Data engineering and analytics projects, mostly Python + DuckDB + dbt. Each repo
 | [revenue-monitor](https://github.com/m4dd0ck/revenue-monitor) | SaaS revenue analytics (MRR bridge, churn, cohorts) on Stripe-shaped data | [dashboard](https://m4dd0ck.github.io/revenue-monitor/) |
 | [metric-helpdesk](https://github.com/m4dd0ck/metric-helpdesk) | MCP server that answers metric questions only through a semantic layer | — |
 | [case-studies](https://github.com/m4dd0ck/case-studies) | Two decision memos on public data, every figure pinned by tests | [read](https://m4dd0ck.github.io/case-studies/) |
+| [sourcewatch](https://github.com/m4dd0ck/sourcewatch) | Status page for public datasets: daily checks on freshness, volume and schema, history kept in git | [status](https://m4dd0ck.github.io/sourcewatch/) |
 
 ## Data engineering (2025–2026)
 
