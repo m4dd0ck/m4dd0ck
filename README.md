@@ -14,6 +14,12 @@ Data engineering and analytics projects, mostly Python + DuckDB + dbt. Each repo
 | [case-studies](https://github.com/m4dd0ck/case-studies) | Two decision memos on public data, every figure pinned by tests | [read](https://m4dd0ck.github.io/case-studies/) |
 | [sourcewatch](https://github.com/m4dd0ck/sourcewatch) | Status page for public datasets: daily checks on freshness, volume and schema, history kept in git | [status](https://m4dd0ck.github.io/sourcewatch/) |
 
+## Tools
+
+| Repo | What it does | Live |
+|---|---|---|
+| [cashpath](https://github.com/m4dd0ck/cashpath) | Budget forecast from one YAML plan: debt-free dates, savings priorities, net worth month by month, with a what-if app | [app](https://cashpath.streamlit.app) |
+
 ## Data engineering (2025–2026)
 
 | Repo | What it does |
