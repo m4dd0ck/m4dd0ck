@@ -31,4 +31,4 @@ Data engineering and analytics projects, mostly Python + DuckDB + dbt. Each repo
 | [resolve-ai](https://github.com/m4dd0ck/resolve-ai) | Entity resolution: fuzzy matching plus embeddings to find duplicate companies |
 | [metricforge](https://github.com/m4dd0ck/metricforge) | Define metrics in YAML, query them from Python or the CLI on DuckDB |
 
-Also: [lifekit](https://github.com/m4dd0ck/lifekit), a local-first habits/journal/goals CLI.
+Also: [lifekit](https://github.com/m4dd0ck/lifekit), a local-first habits/journal/goals CLI, and [datakit](https://github.com/m4dd0ck/datakit), a flat folder of standalone Python helpers for everyday data work.
